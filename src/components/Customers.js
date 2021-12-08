@@ -122,7 +122,7 @@ const Customers = () => {
             <div>
               <div>
                 <span className="textSmall feedbackContent">
-                  I think the training is great! And I am seeing a lot go
+                  I think the training is great! And I am seeing a lot of
                   improvement in their play. They are both so much more
                   confident in trying to use their skills 1v1 with other players
                   in games now. And more confident in dribbling through the
