@@ -22,13 +22,15 @@ const CampsAndClinicsDetails = () => {
         </p>
       </div>
       <div>
-        <p className="textSmallBold">LOCATION</p>
+        <p className="textSmallBold">LOCATIONS</p>
         <Spacer y={2.4} />
         <p className="textSmall">Allen</p>
         <Spacer y={0.6} />
-        <p className="textSmall">Allenarlington</p>
+        <p className="textSmall">Arlington</p>
         <Spacer y={0.6} />
-        <p className="textSmall">Rockwell</p>
+        <p className="textSmall">Mesquite</p>
+        <Spacer y={0.6} />
+        <p className="textSmall">Carrollton</p>
         <Spacer y={4.8} />
         <div className="divider"></div>
         <Spacer y={4.8} />
@@ -43,7 +45,12 @@ const CampsAndClinicsDetails = () => {
           with the Subject line “Camps and Clinics” (optional).
         </p>
         <Spacer y={4.8} />
-        <Button as="a" href="/#contactUs" normal text="Contact us" />
+        <Button
+          as="a"
+          href="https://3pleozfitness.com/pages/contact"
+          normal
+          text="Contact us"
+        />
       </div>
     </PlanDetails>
   );
